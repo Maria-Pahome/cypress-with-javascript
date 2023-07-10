@@ -1,6 +1,6 @@
 # cypress-with-javascript
 
-**Installing
+## Installing
 npm version
 
 Install Cypress for Mac, Linux, or Windows, then get started.
